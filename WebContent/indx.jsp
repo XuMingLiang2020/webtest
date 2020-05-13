@@ -8,7 +8,8 @@
 </head>
 <body>
 	welcome to Eclipse for J2EE Developer Center,欢迎！
-	<%=new Date().toLocaleString() %>lll
+	<%=new Date().toLocaleString() %>lll22222
+	
 	
 </body>
 </html>
